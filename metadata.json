@@ -1,0 +1,6 @@
+{
+  "name": "AI 용돈 관리 도우미",
+  "description": "학생들을 위한 맞춤형 AI 용돈 관리, 소비 습관 분석, 저축 목표 도우미 및 개발자 테스트 센터",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
